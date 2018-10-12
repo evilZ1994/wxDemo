@@ -1,7 +1,6 @@
 import wx
 import requests
 from requests.cookies import RequestsCookieJar
-import re
 
 
 class LoginFrame(wx.Frame):
